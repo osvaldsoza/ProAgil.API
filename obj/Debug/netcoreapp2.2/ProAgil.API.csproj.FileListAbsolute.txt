@@ -1,0 +1,14 @@
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/bin/Debug/netcoreapp2.2/ProAgil.API.deps.json
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/bin/Debug/netcoreapp2.2/ProAgil.API.runtimeconfig.json
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/bin/Debug/netcoreapp2.2/ProAgil.API.runtimeconfig.dev.json
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/bin/Debug/netcoreapp2.2/ProAgil.API.dll
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/bin/Debug/netcoreapp2.2/ProAgil.API.pdb
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.csprojAssemblyReference.cache
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.csproj.CoreCompileInputs.cache
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.RazorAssemblyInfo.cache
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.RazorAssemblyInfo.cs
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.AssemblyInfoInputs.cache
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.AssemblyInfo.cs
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.RazorTargetAssemblyInfo.cache
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.dll
+/Users/osvaldsoza/dev/dotnet/dotnetcore/ProAgil.API/obj/Debug/netcoreapp2.2/ProAgil.API.pdb
